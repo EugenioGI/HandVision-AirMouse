@@ -186,14 +186,13 @@ Improving user experience
  Configuration interface
  Multi-platform support
  Executable release (.exe)
+
+
 👨‍💻 Author
 
 Eugenio Gonzalez Vera
 
 Computer Vision / Software Development Project
 
-📄 License
-
-This project is licensed under the MIT License.
 
 
