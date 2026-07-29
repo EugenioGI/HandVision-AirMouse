@@ -22,8 +22,8 @@ The project allows users to move the cursor, click, right click and drag objects
 ---
 
 ## 🎥 Demo
-<img width="216" height="216" alt="example" src="https://github.com/user-attachments/assets/85ff0fb3-f8a5-428d-bf15-71a943008b85" />
 <img width="257" height="492" alt="hand" src="https://github.com/user-attachments/assets/dfb7c111-23b4-437a-95a9-9fc407880f95" />
+<img width="216" height="216" alt="example" src="https://github.com/user-attachments/assets/85ff0fb3-f8a5-428d-bf15-71a943008b85" />
 
 ---
 
